@@ -19,3 +19,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## 목록
 1. vue-todo
 2. 구구단게임
+
+##참고
+https://github.com/vuejs-tips/v-money
